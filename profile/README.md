@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/NowcastBox/nowcastbox/main/docs/assets/images/logo.png" alt="NowcastBox" width="320"></p>
+
 # NowcastBox
 
 **Nowcasting with dynamic factor models in Python.**
@@ -16,13 +18,13 @@ different frequencies and with different publication lags.
   comparison tests and density scoring.
 - **Data**: connectors to BCB, IBGE, IPEA and FRED, with built-in Brazilian and US datasets.
 
-📖 [Documentation](https://nowcastbox.github.io/nowcastbox/) ·
+📖 [Documentation](https://nowcastbox.readthedocs.io/) ·
 💻 [Source](https://github.com/NowcastBox/nowcastbox) ·
 🐛 [Issues](https://github.com/NowcastBox/nowcastbox/issues)
 
 ## Authors
 
-- **Gustavo Haase**
-- **Alexandre Leão Sanches**
+- **Gustavo Haase** (gustavo.haase@gmail.com)
+- **Alexandre Leão Sanches** (a.leaosanches@gmail.com)
 
 Graduate Program in Economics, Universidade Católica de Brasília (UCB).
