@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://nowcastbox.github.io/nowcastbox/
+    about: Check the user guide and API reference before opening an issue.
